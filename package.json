@@ -1,0 +1,15 @@
+{
+  "name": "students-node",
+  "version": "1.0.0",
+  "description": "Sample application",
+  "main": "app.js",
+  "author": "Ivo Limmen",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "esm": "3.2.25"
+  }
+}
